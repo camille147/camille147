@@ -12,7 +12,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML, CSS, JvaScript, PHP, MySQL**
+- 🔭 I’m currently working on **HTML, CSS, JavaScript, PHP, MySQL**
 
 <!-- 🌱 I’m currently learning **.**-->
 
